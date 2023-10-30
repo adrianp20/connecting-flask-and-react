@@ -1,4 +1,4 @@
-# connecting-flask-and-react
+# Connecting-flask-and-react
 
 **Make sure to have react and flask installed on your system**
 Front-end:
@@ -25,3 +25,5 @@ WINDOWS: run the server: python server.py
 MAC: run the server: python3 server.py
 
 After everything is setup, you can run npm start in your frontend directory and access your website
+
+(credit to this video: https://www.youtube.com/watch?v=7LNl2JlZKHA)
